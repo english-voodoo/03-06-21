@@ -3,7 +3,7 @@ company:
   name: "Dream"
   departments:
     department1:
-      name: "Dept1"
+      - name: "Dept1"
         employees:
           - Olga1:
             name: "Olga"
