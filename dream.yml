@@ -1,0 +1,100 @@
+---
+company:
+  name: "Dream"
+  departments:
+    department1:
+      name: "Dept1"
+        employees:
+          - Olga1:
+            name: "Olga"
+            job: "Accountant"
+          - Olga2:
+            name: "Olga"
+            job: "Accountant"
+          - Olga3:
+            name: "Olga"
+            job: "Accountant"
+          - Olga4:
+            name: "Olga"
+            job: "Accountant"
+          - Dmitry1:
+            name: "Dmitry"
+          - Dmitry2:
+            name: "Dmitry"
+          - Dmitry3:
+            name: "Dmitry"
+          - Ivan1:
+            name: "Ivan"
+          - Ivan2:
+            name: "Ivan"
+        avgSalary: high
+    department2:
+      name: "Dept2"
+        employees:
+          - Roman1:
+            name: "Roman"
+            job: "Lawyer"
+          - Roman2:
+            name: "Roman"
+            job: "Lawyer"
+          - Roman3:
+            name: "Roman"
+            job: "Lawyer"
+          - Roman4:
+            name: "Roman"
+            job: "Lawyer"
+          - Maxim1:
+            name: "Maxim"
+            job: "Driver"
+          - Maxim2:
+            name: "Maxim"
+            job: "Driver"
+        avgSalary: low
+        avgAge: "Less than 30"
+    department3:
+      name: "Dept3"
+        employees:
+          - Ivan:
+            name: "Ivan"
+            job: "Builder"
+          - Nick:
+            name: "Nickolay"
+            job: "Builder"
+          - Olga:
+            name: "Olga"
+            job: "Lawyer"
+        avgSalary: low
+    department45:
+      name: "Dept4+Dept5"
+        employees:
+          - Julia1:
+            name: "Julia"
+            job: "Paperwork"
+            age: "Slightly over 30"
+          - Julia2:
+            name: "Julia"
+            job: "Paperwork"
+            age: "Slightly over 30"
+          - Julia3:
+            name: "Julia"
+            job: "Paperwork"
+            age: "Slightly over 30"
+          - Julia4:
+            name: "Julia"
+            job: "Paperwork"
+            age: "Slightly over 30"
+          - Julia5:
+            name: "Julia"
+            job: "Paperwork"
+            age: "Slightly over 30"
+        avgAge: "Over 50"
+        avgSalary: medium
+    department6:
+      name: "Dept6"
+        employees:
+          - Igor:
+            name: "Igor Viktorovich"
+            job: "Security Manager"
+            age: "Over 50"
+        avgSalary: low
+---
