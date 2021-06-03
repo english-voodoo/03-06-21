@@ -4,7 +4,7 @@ company:
   departments:
     department1:
       - name: "Dept1"
-        employees:
+      - employees:
           - Olga1:
             name: "Olga"
             job: "Accountant"
@@ -27,10 +27,10 @@ company:
             name: "Ivan"
           - Ivan2:
             name: "Ivan"
-        avgSalary: high
+      - avgSalary: high
     department2:
-      name: "Dept2"
-        employees:
+      - name: "Dept2"
+      - employees:
           - Roman1:
             name: "Roman"
             job: "Lawyer"
@@ -49,11 +49,11 @@ company:
           - Maxim2:
             name: "Maxim"
             job: "Driver"
-        avgSalary: low
-        avgAge: "Less than 30"
+      - avgSalary: low
+      - avgAge: "Less than 30"
     department3:
-      name: "Dept3"
-        employees:
+      - name: "Dept3"
+      - employees:
           - Ivan:
             name: "Ivan"
             job: "Builder"
@@ -63,10 +63,10 @@ company:
           - Olga:
             name: "Olga"
             job: "Lawyer"
-        avgSalary: low
+      - avgSalary: low
     department45:
-      name: "Dept4+Dept5"
-        employees:
+      - name: "Dept4+Dept5"
+      - employees:
           - Julia1:
             name: "Julia"
             job: "Paperwork"
@@ -87,14 +87,14 @@ company:
             name: "Julia"
             job: "Paperwork"
             age: "Slightly over 30"
-        avgAge: "Over 50"
-        avgSalary: medium
+      - avgAge: "Over 50"
+      - avgSalary: medium
     department6:
-      name: "Dept6"
-        employees:
+      - name: "Dept6"
+      - employees:
           - Igor:
             name: "Igor Viktorovich"
             job: "Security Manager"
             age: "Over 50"
-        avgSalary: low
+      - avgSalary: low
 ---
